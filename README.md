@@ -1,1 +1,2 @@
-# -Zadanie-3-System-Aplikacja---zastosowanie
+# Zadanie 3 System / Aplikacja - serwis komputerowy
+
