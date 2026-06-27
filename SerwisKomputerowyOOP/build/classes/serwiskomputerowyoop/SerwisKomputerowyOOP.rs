@@ -1,0 +1,12 @@
+Laptop
+Payment
+Technician
+CardPayment
+DesktopComputer
+Device
+ServiceManager
+CashPayment
+Client
+Main
+SerwisKomputerowyOOP
+ServiceRequest
